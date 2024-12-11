@@ -1,7 +1,5 @@
-/log/log1.png
-/log/log2.png
-/log/Loggin.png
-/log/NotFound.png
+Sur Ubuntu :  
+Lancer un serveur apache 2 `systemctl start apache2`  
 
 ![log](/log/log1.png)
 ![log](/log/log2.png)
